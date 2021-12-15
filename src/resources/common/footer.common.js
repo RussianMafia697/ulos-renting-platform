@@ -45,7 +45,7 @@ const FooterCommon = () => {
               <span className="hover:underline hover:text-white cursor-pointer">
                 ULOS
               </span>{" "}
-              2021 - ALL RIGHT RESERVE
+              2021 - ALL RIGHT RESERVED
             </p>
           </div>
         </div>
